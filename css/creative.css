@@ -267,6 +267,7 @@ header .header-content .header-content-inner p {
   position: relative;
   display: block;
   max-width: 650px;
+  height: 100%;
   margin: 0 auto;
 }
 .portfolio-box .portfolio-box-caption {
@@ -316,6 +317,9 @@ header .header-content .header-content-inner p {
   .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
     font-size: 22px;
   }
+}
+.img-responsive {
+  height: 240px;
 }
 .call-to-action h2 {
   margin: 0 auto 20px;
