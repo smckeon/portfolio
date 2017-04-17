@@ -239,7 +239,16 @@
             <!-- <div class="call-to-action"> -->
               <div class="col-lg-4 col-lg-pull-1 col-sm-pull-1 text-center">
                 <h2>Resume</h2>
-                <a href="http://startbootstrap.com/template-overviews/creative/" class="btn btn-default btn-xl sr-button">Click Here For PDF</a>
+                
+          <!-- Resume Under Construction -->
+          <a onClick='alertConstruction()' class="btn btn-default btn-xl sr-button" id="resume-btn">Click Here For PDF</a>
+          <script>
+            function alertConstruction() {
+            document.getElementById("resume-btn").innerHTML = "** !! Under Construction !! **";
+            }
+          </script>
+          <!-- Resume Under Construction -->
+
               </div>
             <!-- </div> -->
         </div>
