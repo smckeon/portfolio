@@ -266,12 +266,12 @@ header .header-content .header-content-inner p {
 .live-link {
   position: absolute;
   bottom: 10px;
-  left: 355px;
+  left: 83%;
 }
 .code-link {
   position: absolute;
   bottom: 10px;
-  left: 10px;
+  left: 3%;
 }
 .portfolio-box {
   position: relative;
