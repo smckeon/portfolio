@@ -264,14 +264,14 @@ header .header-content .header-content-inner p {
   margin-bottom: 0;
 }
 .live-link {
-  position: absolute;
-  bottom: 10px;
-  left: 83%;
+  position: absolute !important;
+  bottom: 10px !important;
+  left: 83% !important;
 }
 .code-link {
-  position: absolute;
-  bottom: 10px;
-  left: 3%;
+  position: absolute !important;
+  bottom: 10px !important;
+  left: 3% !important;
 }
 .portfolio-box {
   position: relative;
