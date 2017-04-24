@@ -263,6 +263,16 @@ header .header-content .header-content-inner p {
 .service-box p {
   margin-bottom: 0;
 }
+.live-link {
+  position: absolute;
+  bottom: 10px;
+  left: 355px;
+}
+.code-link {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+}
 .portfolio-box {
   position: relative;
   display: block;
@@ -317,6 +327,9 @@ header .header-content .header-content-inner p {
   .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
     font-size: 22px;
   }
+}
+.portfolio-tools {
+  font-size: 12px !important;
 }
 .img-responsive {
   height: 240px;
