@@ -279,37 +279,16 @@ header .header-content .header-content-inner p {
   margin-bottom: 0;
 }
 .live-link {
-<<<<<<< HEAD
-<<<<<<< HEAD
-  position: absolute !important;
-  bottom: 10px !important;
-  left: 83% !important;
-}
-.code-link {
-  position: absolute !important;
-  bottom: 10px !important;
-  left: 3% !important;
-=======
   position: absolute;
   bottom: 10px;
-  left: 40%;
+  left: 55%;
 }
 .code-link {
   position: absolute;
   bottom: 10px;
-  left: 50%;
->>>>>>> master
-=======
-  position: absolute !important;
-  bottom: 10px !important;
-  left: 40% !important;
+  left: 35%;
 }
-.code-link {
-  position: absolute !important;
-  bottom: 10px !important;
-  left: 50% !important;
->>>>>>> master
-}
+
 .portfolio-box {
   position: relative;
   display: block;
