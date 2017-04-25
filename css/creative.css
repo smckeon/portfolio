@@ -280,6 +280,7 @@ header .header-content .header-content-inner p {
 }
 .live-link {
 <<<<<<< HEAD
+<<<<<<< HEAD
   position: absolute !important;
   bottom: 10px !important;
   left: 83% !important;
@@ -297,6 +298,16 @@ header .header-content .header-content-inner p {
   position: absolute;
   bottom: 10px;
   left: 50%;
+>>>>>>> master
+=======
+  position: absolute !important;
+  bottom: 10px !important;
+  left: 40% !important;
+}
+.code-link {
+  position: absolute !important;
+  bottom: 10px !important;
+  left: 50% !important;
 >>>>>>> master
 }
 .portfolio-box {
