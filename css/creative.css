@@ -279,14 +279,14 @@ header .header-content .header-content-inner p {
   margin-bottom: 0;
 }
 .live-link {
-  position: absolute;
-  bottom: 10px;
-  left: 40%;
+  position: absolute !important;
+  bottom: 10px !important;
+  left: 40% !important;
 }
 .code-link {
-  position: absolute;
-  bottom: 10px;
-  left: 50%;
+  position: absolute !important;
+  bottom: 10px !important;
+  left: 50% !important;
 }
 .portfolio-box {
   position: relative;
