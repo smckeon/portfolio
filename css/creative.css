@@ -260,10 +260,26 @@ header .header-content .header-content-inner p {
     margin: 20px auto 0;
   }
 }
+.skills-images-list img:first-child {
+  margin-left: 0;
+}
+.skills-images {
+  max-height: 5%;
+  max-width: 5%;
+  margin-left: 10%;
+  margin-top: 20px;
+}
+@media screen and (max-width: 660px){
+  .skills-images {
+    max-height: 8%;
+    max-width: 8%;
+  }
+}
 .service-box p {
   margin-bottom: 0;
 }
 .live-link {
+<<<<<<< HEAD
   position: absolute !important;
   bottom: 10px !important;
   left: 83% !important;
@@ -272,6 +288,16 @@ header .header-content .header-content-inner p {
   position: absolute !important;
   bottom: 10px !important;
   left: 3% !important;
+=======
+  position: absolute;
+  bottom: 10px;
+  left: 40%;
+}
+.code-link {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+>>>>>>> master
 }
 .portfolio-box {
   position: relative;
@@ -332,7 +358,7 @@ header .header-content .header-content-inner p {
   font-size: 12px !important;
 }
 .img-responsive {
-  height: 240px;
+  /*height: ;*/
 }
 .call-to-action h2 {
   margin: 0 auto 20px;
