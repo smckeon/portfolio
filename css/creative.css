@@ -163,10 +163,12 @@ aside {
     color: #CEB094;
   }
 }
-/*.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
-    height: 75vh;
-    width: 75vw;
-}*/
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    min-height: 20vw;
+}
 .contact-email {
   font-size: 14px;
 }
