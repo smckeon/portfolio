@@ -266,8 +266,9 @@ header .header-content .header-content-inner p {
   margin-left: 0;
 }
 .skills-images {
-  max-height: 5%;
-  max-width: 5%;
+  display: inline-block;
+  max-height: 8vh;
+  max-width: 8vw;
   margin-left: 10%;
   margin-top: 20px;
 }
